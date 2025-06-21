@@ -1,4 +1,4 @@
 google.com
 watsapp.com
-yahoo.com
 openai.com
+yahoo.com
